@@ -13,7 +13,7 @@
 
 **Стэк** | **Люблю** |
 ---------| --------- |
-PHP      | github    |
+PHP 7+   | github    |
 xdebug   | stackoverflow, habr, toster, medium |
 git      | vs code   |
 API: amoCRM, mobilon, roistat | open source    |
