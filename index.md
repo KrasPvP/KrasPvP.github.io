@@ -1,7 +1,5 @@
-Links |
------------- |
-[**About me**](/about) |
-[**Projects**](/projects) |
+
+### [**About me**](/about) | [**Projects**](/projects)
 
 # Обо мне
 
