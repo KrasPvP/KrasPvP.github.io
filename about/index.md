@@ -1,5 +1,5 @@
 
-[**About me**](/about) | [**Projects**](/projects) | [**Articles**](/articles)
+> [**About me**](/about) \\\ [**Projects**](/projects) \\\ [**Articles**](/articles)
 
 # Обо мне
 
