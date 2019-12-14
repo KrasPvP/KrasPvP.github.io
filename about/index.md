@@ -9,10 +9,19 @@
 - git
 - API: 
   - amoCRM
+  - mobilon
+  - roistat
+- mySQL
+- apache server
 
 
 
-**Люблю** 
+**Люблю**
+- github
+- stackoverflow, habr, toster, medium
+- open source
+- vs code
+- back-end
 - debian
 - PSR
 - OOP
