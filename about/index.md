@@ -13,6 +13,7 @@
   - roistat
 - mySQL
 - apache server
+- немного js'а (Jq, ajax, простенькие скрипты)
 
 
 
