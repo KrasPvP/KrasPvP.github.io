@@ -1,7 +1,7 @@
 
 # Обо мне
 
-> [**Start**](/) \\\ [**_About me_**](/about) \\\ [**Projects**](/projects) \\\ [**Articles**](/articles)
+> [**Start**](/) // [**_About me_**](/about) // [**Projects**](/projects) // [**Articles**](/articles)
 
 **Стэк**
 - PHP
@@ -17,5 +17,5 @@
 - PSR
 - OOP
 
-Другие линки:
-> [github](https://github.com/ohDaddyPlease) // [gist](https://gist.github.com/ohDaddyPlease) //  // [telegram](https://t.me/ohDaddyPlease) 
+### Другие линки:
+> [github](https://github.com/ohDaddyPlease) // [gist](https://gist.github.com/ohDaddyPlease) // [telegram](https://t.me/ohDaddyPlease) 
