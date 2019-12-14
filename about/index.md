@@ -9,6 +9,8 @@
 
 > ----------
 
+![moya avushka](/img/avushka.png)
+
 **Стэк**
 - PHP
 - xdebug
