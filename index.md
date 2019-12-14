@@ -1,3 +1,3 @@
 # Што ето такое?
 
-> [**Start**](/) \\\ [**About me**](/about) \\\ [**Projects**](/projects) \\\ [**Articles**](/articles)
+> [**_Start_**](/) \\\ [**About me**](/about) \\\ [**Projects**](/projects) \\\ [**Articles**](/articles)
