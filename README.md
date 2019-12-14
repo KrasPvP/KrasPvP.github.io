@@ -2,7 +2,7 @@
 
 > [**_Start_**](/) // [**About me**](/about) // [**Projects**](/projects) // [**Articles**](/articles)
 
- :strawberry:	Приветики. :fist_right:	:fist_left:	
+    Приветики.
 
 - [ ] Не знаю, как оформить стартовую страничку.
  
