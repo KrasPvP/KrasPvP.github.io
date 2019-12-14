@@ -16,3 +16,6 @@
 - debian
 - PSR
 - OOP
+
+Другие линки:
+> [github](https://github.com/ohDaddyPlease) // [gist](https://gist.github.com/ohDaddyPlease) //  // [telegram](https://t.me/ohDaddyPlease) 
