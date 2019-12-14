@@ -1,7 +1,7 @@
 
 # Обо мне
 
-> [**Start**](/) \\\ [**About me**](/about) \\\ [**Projects**](/projects) \\\ [**Articles**](/articles)
+> [**Start**](/) \\\ [**_About me_**](/about) \\\ [**Projects**](/projects) \\\ [**Articles**](/articles)
 
 **Стэк**
 - PHP
