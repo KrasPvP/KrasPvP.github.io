@@ -1,10 +1,13 @@
 
 # Обо мне
 
-> [**Start**](/) // [**_About me_**](/about) // [**Projects**](/projects) // [**Articles**](/articles)
+> ----------
+
+> [**Start**](/) // [**_About me_**](/about) // [**Projects**](/projects) // [**_Articles_**](/articles)
 
 > Другие линки: [github](https://github.com/ohDaddyPlease) // [gist](https://gist.github.com/ohDaddyPlease) // [telegram](https://t.me/ohDaddyPlease) 
 
+> ----------
 
 **Стэк**
 - PHP
@@ -29,3 +32,9 @@
 - debian
 - PSR
 - OOP
+
+> ----------
+
+> [**Наверх**](#обо-мне)
+
+> ----------
