@@ -11,32 +11,20 @@
 
 ![moya avushka](/img/avushka.png)
 
-**Стэк**
-- PHP
-- xdebug
-- git
-- API: 
-  - amoCRM
-  - mobilon
-  - roistat
-- mySQL
-- apache server
-- немного js'а (Jq, ajax, простенькие скрипты)
-
-
-
-**Люблю**
-- github
-- stackoverflow, habr, toster, medium
-- open source
-- vs code
-- back-end
-- debian
-- PSR
-- OOP
+**Стэк** | **Люблю** |
+---------| --------- |
+PHP      | github    |
+xdebug   | stackoverflow, habr, toster, medium |
+git      | vs code   |
+API: amoCRM, mobilon, roistat | open source    |
+mySQL    | back-end  |
+apache server | debian        |
+немного js'а (Jq, ajax, простенькие скрипты) | PSR |
+composer | OOP       |
 
 > ----------
 
 > [**Наверх**](#обо-мне)
 
 > ----------
+
