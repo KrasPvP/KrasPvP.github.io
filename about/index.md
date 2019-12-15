@@ -11,7 +11,7 @@
 
 ![moya avushka](/img/avushka.png)
 
-**Стэк** | **Люблю** | **Хочу** |
+**Знаю** | **Люблю** | **Хочу** |
 ---------| --------- | -------- |
 PHP 7+   | github    | SRE
 xdebug   | stackoverflow, habr, toster, medium | highload |
