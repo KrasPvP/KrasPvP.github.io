@@ -11,16 +11,16 @@
 
 ![moya avushka](/img/avushka.png)
 
-**Стэк** | **Люблю** |
----------| --------- |
-PHP 7+   | github    |
-xdebug   | stackoverflow, habr, toster, medium |
-git      | vs code   |
-API: amoCRM, mobilon, roistat | open source    |
-mySQL    | back-end  |
-apache server | debian        |
-немного js'а (Jq, ajax, простенькие скрипты) | PSR |
-composer | OOP       |
+**Стэк** | **Люблю** | **Хочу** |
+---------| --------- | -------- |
+PHP 7+   | github    | SRE
+xdebug   | stackoverflow, habr, toster, medium | highload |
+git      | vs code   | docker, kubernetes |
+API: amoCRM, mobilon, roistat | open source    | kafka, rabbitmq |
+mySQL    | back-end  | testing |
+apache server | debian        | GoLang |
+немного js'а (Jq, ajax, простенькие скрипты) | PSR | MVC |
+composer | OOP       | symfony/laravel |
 
 Мой опыт работы (aka программирования) берет корни с августа 2018 года, где меня взяли в компанию, которая занимается оптовой и розничной торговлей типа котлов, фасадных материалов и других штук для строительства. 
 
